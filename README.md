@@ -2,6 +2,8 @@
 
 A small HTML, CSS, and JavaScript demo of a draggable, resizable panel in the browser.
 
+![Lit UI screenshot](docs/lit-ui.png)
+
 ## What it does
 
 - Displays a simple floating panel with a drag handle
